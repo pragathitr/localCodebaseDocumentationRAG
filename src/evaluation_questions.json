@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "How do I enable CORS in FastAPI?",
+    "expected_keywords": ["CORSMiddleware", "allow_origins", "add_middleware"]
+  },
+  {
+    "id": 2,
+    "question": "How do I add authentication to FastAPI?",
+    "expected_keywords": ["OAuth2", "security", "Depends"]
+  },
+  {
+    "id": 3,
+    "question": "How do I handle file uploads in FastAPI?",
+    "expected_keywords": ["UploadFile", "File"]
+  },
+  {
+    "id": 4,
+    "question": "How do I connect to a database in FastAPI?",
+    "expected_keywords": ["SQLAlchemy", "database", "session"]
+  },
+  {
+    "id": 5,
+    "question": "How do I create background tasks in FastAPI?",
+    "expected_keywords": ["BackgroundTasks", "add_task"]
+  },
+  {
+    "id": 6,
+    "question": "How do I use path parameters in FastAPI?",
+    "expected_keywords": ["path", "parameter"]
+  },
+  {
+    "id": 7,
+    "question": "How do I validate request body in FastAPI?",
+    "expected_keywords": ["Pydantic", "BaseModel"]
+  },
+  {
+    "id": 8,
+    "question": "How do I add custom middleware in FastAPI?",
+    "expected_keywords": ["middleware", "add_middleware"]
+  },
+  {
+    "id": 9,
+    "question": "How do I handle HTTP exceptions in FastAPI?",
+    "expected_keywords": ["HTTPException", "status_code"]
+  },
+  {
+    "id": 10,
+    "question": "How do I test FastAPI endpoints?",
+    "expected_keywords": ["TestClient", "pytest"]
+  }
+]
